@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< Updated upstream
 	<string>C10C3203-18B7-4EB9-BBF4-894621BBD309</string>
+=======
+	<string>C558DBBE-4059-44CD-8A9A-409E5E1516F5</string>
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectName</key>
 	<string>PhoneBook</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
