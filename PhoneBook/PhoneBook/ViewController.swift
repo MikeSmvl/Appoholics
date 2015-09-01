@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PhoneBook
 //
-//  Created by David Hakopian on 2015-08-28.
-//  Copyright (c) 2015 David Hakopian. All rights reserved.
+//  Created by David Hakopian on 2015-09-01.
+//  Copyright © 2015 David Hakopian. All rights reserved.
 //
 
 import UIKit
@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-        var x = 1;
     }
 
 
